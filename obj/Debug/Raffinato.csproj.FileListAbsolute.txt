@@ -1,0 +1,7 @@
+c:\users\escritorio\source\repos\Raffinato\Raffinato\bin\Debug\Raffinato.exe.config
+c:\users\escritorio\source\repos\Raffinato\Raffinato\bin\Debug\Raffinato.exe
+c:\users\escritorio\source\repos\Raffinato\Raffinato\bin\Debug\Raffinato.pdb
+c:\users\escritorio\source\repos\Raffinato\Raffinato\obj\Debug\Raffinato.csprojResolveAssemblyReference.cache
+c:\users\escritorio\source\repos\Raffinato\Raffinato\obj\Debug\Raffinato.csproj.CoreCompileInputs.cache
+c:\users\escritorio\source\repos\Raffinato\Raffinato\obj\Debug\Raffinato.exe
+c:\users\escritorio\source\repos\Raffinato\Raffinato\obj\Debug\Raffinato.pdb
